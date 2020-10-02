@@ -1,5 +1,6 @@
 # Jupyter NB Checkpoints
 .ipynb_checkpoints/
+/notebooks/ipynb_tmp/
 
 # exclude data from source control by default
 /data/
