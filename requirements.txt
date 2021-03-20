@@ -27,7 +27,7 @@ ipython @ file:///Users/runner/miniforge3/conda-bld/ipython_1598749965211/work
 ipython-genutils==0.2.0
 ipywidgets @ file:///home/conda/feedstock_root/build_artifacts/ipywidgets_1599554010055/work
 jedi @ file:///Users/runner/miniforge3/conda-bld/jedi_1595018318924/work
-Jinja2==2.11.2
+Jinja2==2.11.3
 joblib @ file:///home/conda/feedstock_root/build_artifacts/joblib_1593624380152/work
 jsonschema==3.2.0
 jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1598486169312/work
