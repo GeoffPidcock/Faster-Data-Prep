@@ -38,7 +38,7 @@ llvmlite==0.33.0
 MarkupSafe @ file:///Users/runner/miniforge3/conda-bld/markupsafe_1600368268892/work
 matplotlib @ file:///Users/runner/miniforge3/conda-bld/matplotlib-base_1595353071947/work
 missingno==0.4.2
-mistune==0.8.4
+mistune==2.0.3
 mlxtend==0.17.3
 mock==4.0.2
 nbclient @ file:///home/conda/feedstock_root/build_artifacts/nbclient_1598558657104/work
