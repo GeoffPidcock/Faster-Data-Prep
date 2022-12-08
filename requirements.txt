@@ -6,7 +6,7 @@ backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393
 backports.functools-lru-cache==1.6.1
 bleach @ file:///home/conda/feedstock_root/build_artifacts/bleach_1600454382015/work
 brotlipy==0.7.0
-certifi==2020.6.20
+certifi==2022.12.7
 cffi @ file:///opt/concourse/worker/volumes/live/b9607b09-b777-4ff7-53dc-287727eb8574/volume/cffi_1600699191154/work
 chardet @ file:///Users/runner/miniforge3/conda-bld/chardet_1600358698988/work
 confuse @ file:///home/conda/feedstock_root/build_artifacts/confuse_1593279073800/work
